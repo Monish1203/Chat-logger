@@ -23,6 +23,8 @@
 
 ## Install dependencies:
 - https://nodejs.org/en
+  
+## Vs code
 - npm install
 ## Run the server:
 - npm start
