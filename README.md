@@ -27,7 +27,7 @@
 ## Vs code
 - npm install
 ## Run the server:
-- npm start
+- npm start or npm init -y
 <h2>Open your browser and go to http://localhost:3000 to start chatting!</h2>
 
 ## File Structure
