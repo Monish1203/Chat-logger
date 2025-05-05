@@ -1,5 +1,5 @@
 # Chat-logger
-# College Chat Logger
+
 
 📢 **College Chat Logger** is a simple, real-time chat application built with **Node.js**, **Socket.IO**, and **Express**. It allows users to chat with each other, and the chat logs are stored and can be downloaded by users.
 
